@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Blessy-T
 - 👀 I’m interested in CODING
-- 🌱 I’m currently learning PYTHON
+- 🌱 I have completed PYTHON
 - 💞️ I’m looking to collaborate on SOFTWARE DEVELOPERS
 - 📫 How to reach me BY EMAIL
 
